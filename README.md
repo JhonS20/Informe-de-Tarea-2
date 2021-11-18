@@ -1,9 +1,11 @@
 # Informe-de-Tarea-
 
 OBJETIVOS 
+
 •	Analizar los conceptos y verificar la ley de ohm y la relación de corriente, voltaje y resistencia.
 
 •	Comprender los conceptos de energía y potencia y aprender de forma correcta como calcular la potencia en un circuito.  
+
 MARCO TEORICO 
 
 Capítulo 3 
