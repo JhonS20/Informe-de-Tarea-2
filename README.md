@@ -62,9 +62,11 @@ Capítulo 3
 Capítulo 4
 
 VIDEO 
+https://youtu.be/rgmN-jzQbmA
 
 CONCLUSION
 
-•	Como conclusión se comprobó la Ley de Ohm y la relación de corriente, voltaje y resistencia, como de igual manera se logro comprender los conceptos de esta ley. 
+•	Como conclusión se comprobó la Ley de Ohm y la relación de corriente, voltaje y resistencia, teniendo en cuenta que la relacion es lineal entre el voltaje y la corriente.
+
 
 •	La energía es la capacidad de hacer un trabajo y la potencia la velocidad con la que utiliza esta energía. En el capitulo 4 se logro comprender estos conceptos y la relación que tienen con la corriente.  
